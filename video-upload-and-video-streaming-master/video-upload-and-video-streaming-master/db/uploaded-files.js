@@ -1,10 +1,1 @@
-{
-    "1665980324378": {
-      "id": "1665980324378",
-      "name": "video.mp4",
-      "size": 52602991,
-      "path": "uploads\\1665980324378-video.mp4",
-      "encoding": "7bit",
-      "details": ""
-    }
-  }
+{"1666013284713":{"id":"1666013284713","name":"video.mp4","size":52602991,"path":"uploads/1666013284713-video.mp4","encoding":"7bit","details":""}}
